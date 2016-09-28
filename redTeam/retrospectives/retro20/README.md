@@ -20,7 +20,7 @@ Further information can be found on online at [Retrospective Wiki](http://retros
 
 Entire Board  |  MAD  |  SAD  |  GLAD  |
 |     ---     |  ---  |  ---  |  ----  |
-| <img src=https://github.com/glucy/hello-world/blob/master/redTeam/retrospectives/retro20/images/IMG_20160928_152644.jpg width=300 /> | <img src=https://github.com/glucy/hello-world/blob/master/redTeam/retrospectives/retro20/images/IMG_20160928_152659.jpg width=300 /> | <img src=https://github.com/glucy/hello-world/blob/master/redTeam/retrospectives/retro20/images/IMG_20160928_152705.jpg width=300 /> | <img src=https://github.com/glucy/hello-world/blob/master/redTeam/retrospectives/retro20/images/IMG_20160928_152714.jpg width=300 /> |
+| <img src=./images/IMG_20160928_152644.jpg width=300 /> | <img src=./images/IMG_20160928_152659.jpg width=300 /> | <img src=./images/IMG_20160928_152705.jpg width=300 /> | <img src=./images/IMG_20160928_152714.jpg width=300 /> |
 
 ---
 
@@ -98,7 +98,7 @@ Entire Board  |  MAD  |  SAD  |  GLAD  |
     <th class="tg-s6z2">Score</th>
     <th class="tg-s6z2">Rate the Sprint</th>
     <th class="tg-s6z2">Rate the Retro</th>
-    <th class="tg-yw4l" rowspan="6"><img src=https://github.com/glucy/hello-world/blob/master/redTeam/retrospectives/retro20/images/IMG_20160928_152944.jpg width=300 /></th>
+    <th class="tg-yw4l" rowspan="6"><img src=./images/IMG_20160928_152944.jpg width=300 /></th>
   </tr>
   <tr>
     <td class="tg-baqh">5</td>
